@@ -1,2 +1,5 @@
 # hello-world
-generic repository
+
+Hey there,
+
+Just trying to learn new stuff.
